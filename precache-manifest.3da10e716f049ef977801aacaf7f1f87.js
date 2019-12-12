@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d6f3c0252bba753144d0d2655e432f2",
+    "revision": "f7f07ddf65d353dde940dde794b22a67",
     "url": "/index.html"
   },
   {
-    "revision": "8772b51d11c476c865a4",
+    "revision": "dcdcd87c050e1e5775d1",
     "url": "/static/css/main.421cfa4b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.483b8dab.chunk.js"
   },
   {
-    "revision": "8772b51d11c476c865a4",
-    "url": "/static/js/main.166d95d5.chunk.js"
+    "revision": "dcdcd87c050e1e5775d1",
+    "url": "/static/js/main.1a694884.chunk.js"
   },
   {
     "revision": "1171d7c6ef54446b9f25",
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/slovenia.9572c60f.svg"
   },
   {
-    "revision": "f78cba60ad28e30ea060d424f114670a",
-    "url": "/static/media/snowy.f78cba60.svg"
+    "revision": "3def7c9fb95731ac622871fb6925d5f6",
+    "url": "/static/media/snowy.3def7c9f.svg"
   },
   {
     "revision": "32de4ca773e6dd9b0f32970e4e64a340",
