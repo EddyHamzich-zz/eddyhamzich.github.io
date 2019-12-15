@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.421cfa4b.chunk.css",
-    "main.js": "/static/js/main.1a694884.chunk.js",
+    "main.css": "/static/css/main.38bec4ba.chunk.css",
+    "main.js": "/static/js/main.625f44d1.chunk.js",
     "runtime~main.js": "/static/js/runtime~main.c6423e5e.js",
     "static/js/2.483b8dab.chunk.js": "/static/js/2.483b8dab.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.3da10e716f049ef977801aacaf7f1f87.js": "/precache-manifest.3da10e716f049ef977801aacaf7f1f87.js",
+    "precache-manifest.cb68baeff199809b254a773e08729dec.js": "/precache-manifest.cb68baeff199809b254a773e08729dec.js",
     "service-worker.js": "/service-worker.js",
-    "static/media/AMD.svg": "/static/media/AMD.e14e6960.svg",
+    "static/media/AMD.svg": "/static/media/AMD.5e5be2ed.svg",
     "static/media/Amazon.svg": "/static/media/Amazon.c688ef13.svg",
     "static/media/Apple.svg": "/static/media/Apple.46335db3.svg",
     "static/media/App.css": "/static/media/favicon.930b583a.svg",
